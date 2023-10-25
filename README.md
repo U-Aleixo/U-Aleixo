@@ -8,6 +8,11 @@
 - 💞️ Meus projetos até agora foram de manipulação de arquivos txt para gerar arquivos em excel, passando pelo python e SQL na área de análise de pessoal e carga de dados na web para gerar uma mala direta informativa para enviar para várias áreas da empresa que trabalho.
 - 📫 Eu moro no Brasil, e por enquanto é só.
 
+  ### Você também me encontra em:
+&nbsp;<a href="https://br.linkedin.com/in/ulman-aleixo-oliveira">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+
 <!---
 U-Aleixo/U-Aleixo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
