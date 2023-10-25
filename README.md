@@ -1,6 +1,6 @@
 - 👋 Oi, Eu sou __@U-Aleixo__
 - 👀 Estou interessado em explorar o universo do Python, R e suas bibliotecas, principalmente em *Ciência de Dados*.
-- 🌱 Eu atualmente já tenho um tempinho que estou aprendendo - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width= "45"/> e SQL (mais de 2 anos) e PowerBI (a pelo menos um ano), estou estudando Ciência de Dados na Hashtag e fiquei muito empolgado com análise de dados.
+- 🌱 Eu atualmente já tenho um tempinho que estou aprendendo - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width= "35"/> e SQL (mais de 2 anos) e PowerBI (a pelo menos um ano), estou estudando Ciência de Dados na Hashtag e fiquei muito empolgado com análise de dados.
 - 💞️ Meus projetos até agora foram de manipulação de arquivos txt para gerar arquivos em excel, passando pelo python e SQL na área de análise de pessoal e carga de dados na web para gerar uma mala direta informativa para enviar para várias áreas da empresa que trabalho.
 - 📫 Eu moro no Brasil, e por enquanto é só.
 
