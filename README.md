@@ -5,7 +5,7 @@
   e aplicando nos meus projetos de RH e PowerBI na empresa em que trabalho. Atualmente estudando me iniciando em Ciência de Dados na Hashtag e fiquei muito empolgado com análise de dados.
 </div>
 
-- 💞️ Meus projetos até agora foram de manipulação de arquivos txt para gerar arquivos em excel, passando pelo python e SQL na área de análise de pessoal e carga de dados na web para gerar uma mala direta informativa para enviar para várias áreas da empresa que trabalho.
+- 💞️ Meus projetos até agora tem sido de manipulação de arquivos txt para gerar arquivos em excel, passando pelo python e SQL na área de análise de pessoal para automatizar a carga no PowerBI e carga de dados na web para gerar uma mala direta informativa para enviar para várias áreas da empresa que trabalho.
 - 📫 Eu moro no Brasil, e por enquanto é só.
 
   ### Você também me encontra em:
